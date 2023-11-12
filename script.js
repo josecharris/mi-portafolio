@@ -1,3 +1,5 @@
+const map = new Map([[1, "uno"], [2, "dos"], [3, "tres"]]);  
+
 function toggleMenu() {
   const menu = document.querySelector(".menu-links");
   const icon = document.querySelector(".hamburger-icon");
